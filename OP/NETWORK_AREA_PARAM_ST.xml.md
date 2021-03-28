@@ -1,0 +1,13 @@
+|Name|Type|Value|Description|
+|:---|:---|:---|:---|
+|LimitationTime0|f32|30||
+|LimitationTime1|f32|20||
+|LimitationTime2|f32|30||
+|isEnable00|b8|True||
+|isEnable01|b8|True||
+|isEnable02|b8|True||
+|unkb1|b8|True||
+|unkb2|b8|True||
+|unkb3|b8|True||
+|unkb4|b8|True||
+|unkb5|b8|True||

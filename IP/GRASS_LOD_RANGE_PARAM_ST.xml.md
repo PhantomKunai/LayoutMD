@@ -1,0 +1,9 @@
+|NAME|TYPE|DEFAULT|SIZE|DESCRIPTION|
+|---|---|---|---|---|
+|LodDistance1|f32|40|||
+|LodDistance2|f32|10|||
+|LodDistance3|f32|120|||
+|LodDistance4|f32|10|||
+|LodDistance5|f32|160|||
+|LodDistance6|f32|10|||
+|LodDistance7|f32|1000|||

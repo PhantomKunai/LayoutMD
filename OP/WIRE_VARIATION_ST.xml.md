@@ -1,0 +1,9 @@
+|Name|Type|Value|Description|
+|:---|:---|:---|:---|
+|WireType|s8|0||
+|ComprasionValue|u8|0||
+|InitHomingAngle1|f32|90||
+|InitHomingAngle2|f32|90||
+|InitHomingAngle3|f32|90||
+|InitHomingAngle4|f32|90||
+|ChrPhysicsHomingParamSubId|s32|0||

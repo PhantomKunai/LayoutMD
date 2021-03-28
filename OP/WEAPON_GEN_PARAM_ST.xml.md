@@ -1,0 +1,13 @@
+|Name|Type|Value|Description|
+|:---|:---|:---|:---|
+|wepParamId|s32|0||
+|gemSlotType_0|s32|-2147483296||
+|gemGenId0|s32|-1||
+|gemSlotType_1|s32|-2147483296||
+|gemGenId1|s32|-1||
+|gemSlotType_2|s32|-2147483296||
+|gemGenId2|s32|-1||
+|gemSlotType_3|s32|-2147483296||
+|gemGenId3|s32|-1||
+|gemSlotType_4|s32|-2147483296||
+|gemGenId4|s32|-1||

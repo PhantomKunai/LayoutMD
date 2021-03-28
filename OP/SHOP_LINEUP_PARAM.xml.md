@@ -1,0 +1,12 @@
+|Name|Type|Value|Description|
+|:---|:---|:---|:---|
+|EquipId|s32|500||
+|value|s32|-1||
+|mtrlId|s32|-1||
+|EventFlag|s32|-1||
+|qwcID|s32|-1||
+|sellQuantity|s16|1||
+|shopType|u8|0||
+|equipType|u8|3||
+|value_SAN|s16|-1||
+|PriceRate|f32|1||

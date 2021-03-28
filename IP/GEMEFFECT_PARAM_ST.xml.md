@@ -1,0 +1,11 @@
+|NAME|TYPE|DEFAULT|SIZE|DESCRIPTION|
+|---|---|---|---|---|
+|spEffectId|s32|-1|||
+|categoryId|s32|0|||
+|effectRank|s32|1|||
+|rankMin|s32|1|||
+|rankMax|s32|100|||
+|disposalPrice|s32|0|||
+|gemIconIdOffset|s16|0|||
+|pad1|dummy8||2||
+|spEffectId_forAtk|s32|-1|||

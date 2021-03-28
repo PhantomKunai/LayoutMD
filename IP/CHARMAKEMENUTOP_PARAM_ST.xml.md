@@ -1,0 +1,10 @@
+|NAME|TYPE|DEFAULT|SIZE|DESCRIPTION|
+|---|---|---|---|---|
+|CommandID|s32|1|||
+|FaceParamID|s32|0|||
+|TableID|s32|0|||
+|ViewCondition|s32|0|||
+|PreviewMode|u8|0|||
+|pad1|dummy8||3||
+|MenuType|s8|2|||
+|pad2|dummy8||11||

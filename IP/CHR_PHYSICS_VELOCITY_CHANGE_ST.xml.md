@@ -1,0 +1,13 @@
+|NAME|TYPE|DEFAULT|SIZE|DESCRIPTION|
+|---|---|---|---|---|
+|Unk1|f32|1|||
+|Unk2|f32|1|||
+|Unk3|f32|1|||
+|Unk4|f32|1|||
+|Unk5|f32|1|||
+|pad1|dummy8||1||
+|VelocityType|u8|2|||
+|Unk6|u8|3|||
+|pad2|dummy8||1||
+|ChrPhysicsHomingParamId|s32|-1|||
+|pad3|dummy8||4||

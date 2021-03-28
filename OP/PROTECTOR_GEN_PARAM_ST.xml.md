@@ -1,0 +1,13 @@
+|Name|Type|Value|Description|
+|:---|:---|:---|:---|
+|proParamId|s32|0||
+|gemSlotType_0|x32|0x80000160||
+|gemGenId_0|s32|-1||
+|gemSlotType_1|x32|0x80000160||
+|gemGenId_1|s32|-1||
+|gemSlotType_2|x32|0x80000160||
+|gemGenId_2|s32|-1||
+|gemSlotType_3|x32|0x80000160||
+|gemGenId_3|s32|-1||
+|gemSlotType_4|x32|0x80000160||
+|gemGenId_4|s32|-1||

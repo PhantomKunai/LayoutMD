@@ -1,0 +1,22 @@
+|Name|Type|Value|Description|
+|:---|:---|:---|:---|
+|Unk1|s32|0||
+|Unk2|s32|0||
+|Unk3|s32|100000000||
+|ThrowState|u8|0||
+|Unk4|u8|0||
+|Unk5|u8|0||
+|State1|u8|0||
+|State2|u8|0||
+|Unk6|u8|0||
+|DisableArmStyleCheck [ON_OFF]|u8|0||
+|Unk7|u8|0||
+|Mask1|u8|0||
+|Mask2|u8|0||
+|Mask3|u8|0||
+|Mask4|u8|0||
+|GoodsParamId|s32|-1||
+|Mask5|u8|0||
+|Mask6|u8|0||
+|Mask7|u8|0||
+|Mask8|u8|0||

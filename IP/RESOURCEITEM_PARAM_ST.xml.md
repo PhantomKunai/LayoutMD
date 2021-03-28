@@ -1,0 +1,14 @@
+|NAME|TYPE|DEFAULT|SIZE|DESCRIPTION|
+|---|---|---|---|---|
+|Unk1|s32|-1|||
+|Unk2|s32|-1|||
+|Unk3|s32|-1|||
+|GoodsItemId|s32|0|||
+|ResourceItemLimit|u8|0|||
+|pad1|dummy8||3||
+|Rand_GeneratorValue1|f32|0|||
+|Rand_GeneratorValue2|f32|0|||
+|Unk4|f32|0|||
+|Unk5|f32|0|||
+|Unk6|f32|0|||
+|pad2|dummy8||12||

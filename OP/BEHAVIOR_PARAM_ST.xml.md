@@ -1,0 +1,12 @@
+|Name|Type|Value|Description|
+|:---|:---|:---|:---|
+|variationId|s32|0||
+|behaviorJudgeId|s32|0||
+|ezStateBehaviorType_old|u8|1||
+|refType|u8|0||
+|refId|s32|200||
+|sfxVariationId|s32|0||
+|stamina|s32|0||
+|mp|s32|0||
+|category|u8|11||
+|heroPoint|u8|0||

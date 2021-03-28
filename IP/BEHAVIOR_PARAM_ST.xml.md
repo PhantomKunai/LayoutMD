@@ -1,0 +1,14 @@
+|NAME|TYPE|DEFAULT|SIZE|DESCRIPTION|
+|---|---|---|---|---|
+|variationId|s32|0|||
+|behaviorJudgeId|s32|0|||
+|ezStateBehaviorType_old|u8|1|||
+|refType|u8|0|||
+|pad1|dummy8||2||
+|refId|s32|200|||
+|sfxVariationId|s32|0|||
+|stamina|s32|0|||
+|mp|s32|0|||
+|category|u8|11|||
+|heroPoint|u8|0|||
+|pad2|dummy8||2||

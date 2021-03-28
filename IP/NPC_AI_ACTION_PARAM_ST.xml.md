@@ -1,0 +1,13 @@
+|NAME|TYPE|DEFAULT|SIZE|DESCRIPTION|
+|---|---|---|---|---|
+|directionMovementId|u8|0|||
+|actId0|u8|22|||
+|actId1|u8|0|||
+|actId2|u8|0|||
+|isDisableDirectionMovement|u8|0|||
+|isDisableAct0|u8|0|||
+|isDisableAct1|u8|0|||
+|isDisableAct2|u8|0|||
+|actType|s32|0|||
+|isDisableAiCheck|u8|0|||
+|pad1|dummy8||3||

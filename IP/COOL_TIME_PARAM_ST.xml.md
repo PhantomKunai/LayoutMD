@@ -1,0 +1,10 @@
+|NAME|TYPE|DEFAULT|SIZE|DESCRIPTION|
+|---|---|---|---|---|
+|limitationTime_0|f32|900|||
+|observationTime_0|f32|900|||
+|limitationTime_1|f32|600|||
+|observationTime_1|f32|450|||
+|limitationTime_2|f32|300|||
+|observationTime_2|f32|200|||
+|limitationTime_3|f32|0|||
+|observationTime_3|f32|0|||

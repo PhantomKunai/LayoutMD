@@ -1,0 +1,13 @@
+|NAME|TYPE|DEFAULT|SIZE|DESCRIPTION|
+|---|---|---|---|---|
+|hierarchGain|f32|0|||
+|velocityDamping|f32|0|||
+|accelGain|f32|0|||
+|velocityGain|f32|0|||
+|positionGain|f32|0|||
+|maxLinerVelocity|f32|0|||
+|maxAngularVelocity|f32|0|||
+|snapGain|f32|0|||
+|enable|u8|1|||
+|partsHitMaskNo|s8|1|||
+|pad1|dummy8||14||

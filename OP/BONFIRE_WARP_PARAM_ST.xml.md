@@ -1,0 +1,11 @@
+|Name|Type|Value|Description|
+|:---|:---|:---|:---|
+|EventFlagId|s32|14000000||
+|WarpEventId|s32|4001950||
+|BonfireNameId|s32|211210||
+|DescriptionTextId|s32|-1||
+|PictureId|s32|10011||
+|ListId|u8|3||
+|IsDisableQuickwarp|u8|0||
+|CeremonyId|s16|-1||
+|MenuId|s32|0||

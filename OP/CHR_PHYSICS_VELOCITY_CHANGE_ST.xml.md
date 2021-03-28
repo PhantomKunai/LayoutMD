@@ -1,0 +1,10 @@
+|Name|Type|Value|Description|
+|:---|:---|:---|:---|
+|Unk1|f32|1||
+|Unk2|f32|1||
+|Unk3|f32|1||
+|Unk4|f32|1||
+|Unk5|f32|1||
+|VelocityType|u8|2||
+|Unk6|u8|3||
+|ChrPhysicsHomingParamId|s32|-1||

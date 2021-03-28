@@ -1,0 +1,15 @@
+|NAME|TYPE|DEFAULT|SIZE|DESCRIPTION|
+|---|---|---|---|---|
+|RandomizerCoefficient0|f32|500|||
+|RandomizerCoefficient1|f32|500|||
+|RandomizerCoefficient2|f32|-1|||
+|TransformVfxId0|s32|-1|||
+|LoopVfxId0|s32|430041|||
+|DestroyVfxId0|s32|430042|||
+|TransformVfxId1|s32|-1|||
+|LoopVfxId1|s32|-1|||
+|DestroyVfxId1|s32|-1|||
+|TransformVfxId2|s32|-1|||
+|LoopVfxId2|s32|-1|||
+|DestroyVfxId2|s32|-1|||
+|pad1|dummy8||16||

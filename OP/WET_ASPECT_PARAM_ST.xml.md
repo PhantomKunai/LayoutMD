@@ -1,0 +1,12 @@
+|Name|Type|Value|Description|
+|:---|:---|:---|:---|
+|R1|u8|0||
+|G1|u8|0||
+|B1|u8|0||
+|Alpha1|f32|0||
+|R2|u8|0||
+|G2|u8|0||
+|B2|u8|0||
+|Alpha2|f32|0||
+|WetRate|f32|0||
+|WetCorrection|u8|0||
